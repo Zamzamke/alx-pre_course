@@ -1,1 +1,1 @@
-another readme for 0x01_git
+i enjoy learning new things
